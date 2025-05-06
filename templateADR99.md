@@ -8,6 +8,13 @@
 
 [Provide references and links. Avoid copying content unless essential or simplifies explanation.]
 
+### Options (if relevant)
+
+| Option | Pros | Cons |
+|---|---|---|
+| Option 1 | ... | ... |
+| Option 2 | ... | ... |
+| ... | ... | ... |
 
 ## Consequences
 
