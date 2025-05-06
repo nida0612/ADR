@@ -12,14 +12,13 @@ Contents:
 - [References and Further information](#references-and-further-information)
 
 ### Usage guidelines 
- - Each ADR is a plain text, 1-2 page document
- - ADRs should be numbered
+
+ - Each ADR is a plain text, 1-2 page document at max
  - ADRs should be stored within each software project repo
- - Create a separate repo for crosscutting ADRs
- - Track ADRs in the backlog
- - Review ADRs
+ - Include diagrams if they aid understanding.
+ - Provide references and links. Avoid copying content unless essential or simplifies explanation.
+ - Follow the File Naming Conventions
  - Create ADRs for *significant* design decisions
- - This template is a suggestion that you may want to adopt or adapt. In any case, establishing and sharing a template for ADRs in your team or organization is a good idea.
 
 ### ADR File Naming Conventions
 
@@ -39,18 +38,6 @@ Example names:
 ### Suggestions for writing good ADRs
 
 ### ADR Template Collection and Sample Implementation
-
-  * [ADR template by Michael Nygard] (simple and popular)
-
-  * [ADR template by Jeff Tyree and Art Akerman] (more sophisticated)
-
-  * [ADR template for Alexandrian pattern] (simple with context specifics)
-
-  * [ADR template for business case] (more MBA-oriented, with costs, SWOT, and more opinions)
-
-  * [ADR template of the Markdown Any Decision Records (MADR) project](both simple and elaborate version; the latter emphasizes options and their pros and cons)
-
-  * [ADR template using Planguage] (more quality assurance oriented)
 
 ### References and Further information
 
