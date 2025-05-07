@@ -4,10 +4,6 @@
 
 <Be brief and to the point. What problem/challenge does this address? What are the functional and non-functional drivers? Include important relevant facts.>
 
-[Include diagrams if they aid understanding.]
-
-[Provide references and links. Avoid copying content unless essential or simplifies explanation.]
-
 ### Options (if relevant)
 
 | Option | Pros | Cons |
