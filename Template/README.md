@@ -1,3 +1,3 @@
 #Template folder
 
-This folder contains he ADR template(s) for Group Security, DBAG
+This folder contains the ADR template(s) for Group Security, DBAG
