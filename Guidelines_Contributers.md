@@ -21,8 +21,6 @@ Follow these steps to submit your ADR for review:
 4. Click **"Add file" > "Create new file"**.
 5. In the filename box, type:
 
-ADR
-
 6. Paste the copied content into the editor and fill in your ADR.
 7. Scroll down and **Commit new file** (add a short commit message).
 
