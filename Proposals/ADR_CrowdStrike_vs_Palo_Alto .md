@@ -3,7 +3,7 @@
 
 ## Context
 
-Our organization is evaluating endpoint protection platforms to enhance our cybersecurity posture, particularly in the context of Zero Trust Architecture (ZTA), remote work, and cloud-first strategies. The key drivers include:
+DBAG is evaluating endpoint protection platforms to enhance our cybersecurity posture, particularly in the context of Zero Trust Architecture (ZTA), remote work, and cloud-first strategies. The key drivers include:
 
 - **Functional**: Endpoint detection and response (EDR), extended detection and response (XDR), threat intelligence, and integration with existing SIEM tools.
 - **Non-functional**: Ease of deployment, centralized management, scalability, and vendor support.
