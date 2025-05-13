@@ -23,14 +23,13 @@ Contents:
 ### ADR File Naming Conventions
 
 
-
 ### Step-by-Step Integration
-
+Please find the files above for guidelines for both maintainers and contributors of the ADR repo.
 
 ### Sample Implementation
-
-ADR_CrowdStrike_vs_Palo_Alto .md
-ADR_Rapid7_vs_Cortex.md
+Please find two sample file above:
+-ADR_CrowdStrike_vs_Palo_Alto .md
+-ADR_Rapid7_vs_Cortex.md
 
 ### References and Further information
 
