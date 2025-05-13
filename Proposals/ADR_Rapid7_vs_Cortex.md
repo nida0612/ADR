@@ -3,7 +3,7 @@
 
 ## Context
 
-Our organization is evaluating threat detection and response platforms to enhance our cybersecurity posture, particularly in the context of Zero Trust Architecture (ZTA), remote work, and cloud-first strategies. The key drivers include:
+DBAG is evaluating threat detection and response platforms to enhance our cybersecurity posture, particularly in the context of Zero Trust Architecture (ZTA), remote work, and cloud-first strategies. The key drivers include:
 
 - **Functional**: Extended detection and response (XDR), threat intelligence, log management, and integration with existing SIEM tools.
 - **Non-functional**: Ease of deployment, centralized management, scalability, and vendor support.
