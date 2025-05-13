@@ -28,8 +28,7 @@ Please find the files above for guidelines for both maintainers and contributors
 
 ### Sample Implementation
 Please find two sample file above:
--ADR_CrowdStrike_vs_Palo_Alto .md
--ADR_Rapid7_vs_Cortex.md
+-ADR_CrowdStrike_vs_Palo_Alto .md and ADR_Rapid7_vs_Cortex.md
 
 ### References and Further information
 
