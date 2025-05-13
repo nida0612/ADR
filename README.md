@@ -22,22 +22,15 @@ Contents:
 
 ### ADR File Naming Conventions
 
-1. **Sequential Numbering**: Use a sequential number to keep track of the order of decisions.
-2. **Date-Based**: Include the date of the decision in the file name.
-4. **Project-Specific Prefix**: Add a project-specific prefix to the file name.
-5. **Combination**: Combine all of the above for clarity.
-
-Example names: 
-* projectname-2025-05-05-v3.7.md
-* projectname-2025-05-06-v1.2.md
-* projectname-2025-05-07-v4.6.md
 
 
 ### Step-by-Step Integration
 
-### Suggestions for writing good ADRs
 
-### ADR Template Collection and Sample Implementation
+### Sample Implementation
+
+ADR_CrowdStrike_vs_Palo_Alto .md
+ADR_Rapid7_vs_Cortex.md
 
 ### References and Further information
 
